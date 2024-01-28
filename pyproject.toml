@@ -47,6 +47,7 @@ graphgym=[
     "hydra-core",
     "protobuf<4.21",
     "pytorch-lightning",
+    "tensorboardX",
 ]
 modelhub=[
     "huggingface_hub"
